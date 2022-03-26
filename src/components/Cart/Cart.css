@@ -1,0 +1,8 @@
+.cart{
+    position: sticky;
+    top: 0;
+    border: 1px orange solid;
+    background-color: skyblue;
+    padding: 2%;
+
+}

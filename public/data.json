@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "DJI Maverick Pro",
+        "img": "https://img.freepik.com/free-photo/compass-lying-near-drone_23-2147833252.jpg?t=st=1648288883~exp=1648289483~hmac=663cce03451df3ba34b8f63591c85b9b6724b95e6859b283532f246f15217469&w=740",
+        "price": 10000
+    },
+    {
+        "id": 2,
+        "name": "Iphone 12 pro",
+        "img": "https://img.freepik.com/free-vector/realistic-white-smartphone-design-with-three-cameras_23-2148374059.jpg?t=st=1648288939~exp=1648289539~hmac=6f5b0f2556fda4964097b21154032bcb26f72d3ef79e36dc8481add5db11e1ff&w=740",
+        "price": 10000
+    },
+    {
+        "id": 3,
+        "name": "boAt Special Edition",
+        "img": "https://img.freepik.com/free-psd/creative-headphone-mockup_1310-744.jpg?t=st=1648289059~exp=1648289659~hmac=1b95a34d8ac9ef451967d52ae80d526461878d5530edb810b1aca1f055bd4efe&w=996",
+        "price": 10000
+    },
+    {
+        "id": 4,
+        "name": "boAt Green Edition",
+        "img": "https://img.freepik.com/free-psd/creative-headphone-mockup_1310-740.jpg?w=996",
+        "price": 10000
+    },
+    {
+        "id": 5,
+        "name": "TWS Superfun",
+        "img": "https://img.freepik.com/free-photo/black-wireless-earbud-with-charging-case_1268-14371.jpg?t=st=1648294758~exp=1648295358~hmac=5f46fd542ed789d7d1643e48671ffa5f3af479221a57341960c22eb0f5212330&w=996",
+        "price": 10000
+    },
+    {
+        "id": 6,
+        "name": "Wireless Mouse",
+        "img": "https://img.freepik.com/free-photo/white-wireless-optical-mouse-digital-device_53876-96814.jpg?t=st=1648295031~exp=1648295631~hmac=a2696bcd687722559d17d797bfa3f71d50f11c39e2dc63031ace074983578214&w=996",
+        "price": 10000
+    },
+    {
+        "id": 7,
+        "name": "GTR3 Smartwatch",
+        "img": "https://images.unsplash.com/photo-1553545204-4f7d339aa06a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1093&q=80",
+        "price": 10000
+    },
+    {
+        "id": 8,
+        "name": "keyboard & Mouse Combo",
+        "img": "https://img.freepik.com/free-vector/print_53876-43658.jpg?t=st=1648308608~exp=1648309208~hmac=222da2859e3f057b96654b090d9bd889b6995f8c9f208de412145b5682a9b16b&w=740",
+        "price": 10000
+    },
+    {
+        "id": 9,
+        "name": "Digital Camera",
+        "img": "https://img.freepik.com/free-vector/realistic-digital-photo-camera-tripod_1284-13126.jpg?t=st=1648308528~exp=1648309128~hmac=94d3a693fbe90df3468da6ed58110caf18ce1867b3aa1a0a3a5adeee18466b0f&w=740",
+        "price": 10000
+    },
+    {
+        "id": 10,
+        "name": "Asus ROG Gaming Laptop",
+        "img": "https://img.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_53876-138283.jpg?t=st=1648305210~exp=1648305810~hmac=d98e3a9c1dbc697fbc14cd8d18f9bbdf5c9b134bf3f0473e03c5d9adf183cfd7&w=900",
+        "price": 10000
+    }
+]
