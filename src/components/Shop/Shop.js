@@ -19,13 +19,11 @@ const Shop = () => {
         const newCart = [...cart, product];
         setCart(newCart);
     }
-    const getRandom = (cart) => {
-        const pickRandom = cart[Math.floor(Math.random() * cart.length)];
-    }
+
 
     return (
         <div className='shop-container row'>
-            <div className='products-container col-lg-6 ms-2'>
+            <div className='products-container'>
                 {
                     products.map(product => <Product
                         key={product.id}
@@ -34,8 +32,8 @@ const Shop = () => {
                     ></Product>)
                 }
             </div>
-            <div className='cart-container mx-auto col-lg-6'>
-                <Cart cart={cart} random={getRandom}></Cart>
+            <div className='cart-container mx-auto'>
+                <Cart cart={cart} ></Cart>
             </div>
 
         </div>
