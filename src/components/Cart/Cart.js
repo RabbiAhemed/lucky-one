@@ -8,7 +8,7 @@ const Cart = (props) => {
     for (const product of cart) {
         names.push(product.name)
     };
-
+    // function for genreating random item
     const getRandom = (names) => {
         const pickRandom = names[Math.floor(Math.random() * names.length)];
         setItem(pickRandom)
