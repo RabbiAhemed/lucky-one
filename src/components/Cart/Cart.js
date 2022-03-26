@@ -24,6 +24,7 @@ const Cart = (props) => {
 
             <button className='btn-primary mx-auto' onClick={() => getRandom(names)}>Choose One For me</button>
             <h3>Suggested:{ }</h3>
+            <button>Clear</button>
 
         </div>
     );
