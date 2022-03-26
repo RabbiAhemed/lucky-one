@@ -22,7 +22,7 @@ const Shop = () => {
 
 
     return (
-        <div className='shop-container row'>
+        <div className='shop-container row mx-auto'>
             <div className='products-container'>
                 {
                     products.map(product => <Product
